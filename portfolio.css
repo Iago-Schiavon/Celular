@@ -20,8 +20,8 @@ body {
 header {
     background-color: rgb(26, 26, 26);
     text-align: center;
-    padding: 30px;
-    margin-bottom: 10px;
+    /*padding: 30px;
+    margin-bottom: 10px;*/
 }
 
 li {
@@ -33,9 +33,9 @@ li a {
     color: rgb(0, 200, 10);
     font-weight: bold;
     font-size: 1.5em;
-    margin-left: 150px;
+    /*margin-left: 150px;
     margin-right: 150px;
-    margin-top: 10px;
+    margin-top: 10px;*/
 }
 
 a:hover {
@@ -43,11 +43,11 @@ a:hover {
 }
 
 #Info {
-    margin-top: 70px;
-    margin-bottom: 50px;
+   /* margin-top: 70px;
+    margin-bottom: 50px;*/
     align-items: center;
 }
-
+/*
 .d {
     margin-bottom: 40px;
 }
@@ -55,7 +55,7 @@ a:hover {
 .e {
     padding-right: 40px;
     margin-bottom: 20px;
-}
+}*/
 
 .frase {
     word-wrap: break-word;
